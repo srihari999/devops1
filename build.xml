@@ -38,7 +38,7 @@ END SNIPPET: ant-bootstrap -->
   <property name="it.workdir.version" value="3.0.x" />
   <property name="maven-compile.jvmargs" value="-Xmx512m -Xms512m"/>
   <property name="maven-compile.fork" value="true"/>
-  <property name="maven-compile.maxmemory" value="512m"/>
+  
 
   <target name="initTaskDefs">
     
